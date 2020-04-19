@@ -6,6 +6,7 @@ Login Page and Credit Card Page
   <img  width="350" src="https://github.com/KHkhalaf/MaterialDesign/blob/master/screenshots/LoginPage.gif"/>
 </p>
 ----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img  width="350" src="https://github.com/KHkhalaf/MaterialDesign/blob/master/screenshots/CreditCard.gif"/>
 </p>
