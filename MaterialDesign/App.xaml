@@ -35,6 +35,7 @@
                                                     MasterCard="#394854" 
                                                     Visa="#2867BA"
                                                     NotRecognized="#75849D"/>
+            <converters:BtnIsEnabled x:Key="BtnIsEnabled" />
 
             <Color x:Key="Primary">#E5E9EE</Color>
             <Color x:Key="PrimaryDark">#75849D</Color>

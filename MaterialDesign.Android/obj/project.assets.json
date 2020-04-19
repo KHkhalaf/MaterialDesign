@@ -5230,11 +5230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign.Android\\MaterialDesign.Android.csproj",
+      "projectUniqueName": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign.Android\\MaterialDesign.Android.csproj",
       "projectName": "MaterialDesign.Android",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign.Android\\MaterialDesign.Android.csproj",
+      "projectPath": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign.Android\\MaterialDesign.Android.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign.Android\\obj\\",
+      "outputPath": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -5255,8 +5255,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj"
+            "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj": {
+              "projectPath": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj"
             }
           }
         }

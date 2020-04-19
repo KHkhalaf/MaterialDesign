@@ -5823,11 +5823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign.iOS\\MaterialDesign.iOS.csproj",
+      "projectUniqueName": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign.iOS\\MaterialDesign.iOS.csproj",
       "projectName": "MaterialDesign.iOS",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign.iOS\\MaterialDesign.iOS.csproj",
+      "projectPath": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign.iOS\\MaterialDesign.iOS.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign.iOS\\obj\\",
+      "outputPath": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -5848,8 +5848,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj"
+            "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj": {
+              "projectPath": "G:\\courses\\xamarin\\Some Projects\\MaterialDesign\\MaterialDesign\\MaterialDesign.csproj"
             }
           }
         }

@@ -9,9 +9,13 @@
              BackgroundColor="#F5F5F5">
 
     <StackLayout>
-        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" WidthRequest="400" HorizontalOptions="Center">
+        <StackLayout Orientation="Vertical"
+                     VerticalOptions="CenterAndExpand"
+                     WidthRequest="400" 
+                     HorizontalOptions="Center">
 
-            <controls:EntryLabelFloatingView lblTextTitle="Login"
+            <controls:EntryLabelFloatingView x:Name="Login"
+                                             lblTextTitle="Login"
                                              EntryImage="login"
                                              HorizontalOptions="Center" 
                                              Margin="20,5,20,10" />
@@ -23,7 +27,24 @@
                                              EntryIsPassword="True" 
                                              HorizontalOptions="Center" 
                                              Margin="20,10,20,10" />
-            <Button Text="Sign In" HeightRequest="46" BackgroundColor="#00C0FF" TextColor="#EFFBFF" Margin="20,10,20,5" Clicked="NavigateToCreditCardPage"/>
+            <Button Text="Sign In" 
+                    HeightRequest="46" 
+                    BackgroundColor="#00C0FF" 
+                    TextColor="#EFFBFF" 
+                    Margin="20,10,20,5" 
+                    Clicked="NavigateToCreditCardPage"
+                    IsEnabled="{Binding Source={x:Reference Passoword,Login},
+                                    Path=EntryText.Length,
+                                    Converter={StaticResource BtnIsEnabled}}">
+                    <!--<Button.Triggers>
+                        <DataTrigger TargetType="Button"
+                             Binding="{Binding Source={x:Reference Passoword},
+                                               Path=EntryText.Length}"
+                             Value="0">
+                            <Setter Property="IsEnabled" Value="False" />
+                        </DataTrigger>
+                    </Button.Triggers>-->
+            </Button>
         </StackLayout>
     </StackLayout>
 

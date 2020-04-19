@@ -16,3 +16,21 @@ C:\Users\hp\source\repos\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\
 C:\Users\hp\source\repos\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
 C:\Users\hp\source\repos\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\MaterialDesign.csproj.Fody.CopyLocal.cache
 C:\Users\hp\source\repos\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\XamlC.stamp
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\bin\Debug\netstandard2.0\MaterialDesign.deps.json
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\bin\Debug\netstandard2.0\MaterialDesign.dll
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\bin\Debug\netstandard2.0\ref\MaterialDesign.dll
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\bin\Debug\netstandard2.0\MaterialDesign.pdb
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\MaterialDesign.csprojAssemblyReference.cache
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\Controls\EntryLabelFloatingView.xaml.g.cs
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\Views\CreditCardDisplayView.xaml.g.cs
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\Views\CreditCardPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\Views\CustomNavigationPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\MaterialDesign.AssemblyInfoInputs.cache
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\MaterialDesign.AssemblyInfo.cs
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\MaterialDesign.csproj.Fody.CopyLocal.cache
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\XamlC.stamp
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\MaterialDesign.dll
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\ref\MaterialDesign.dll
+G:\courses\xamarin\Some Projects\MaterialDesign\MaterialDesign\obj\Debug\netstandard2.0\MaterialDesign.pdb

@@ -17,11 +17,15 @@ namespace MaterialDesign {
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::MaterialDesign.Controls.EntryLabelFloatingView Login;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::MaterialDesign.Controls.EntryLabelFloatingView Passoword;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            Login = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::MaterialDesign.Controls.EntryLabelFloatingView>(this, "Login");
             Passoword = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::MaterialDesign.Controls.EntryLabelFloatingView>(this, "Passoword");
         }
     }
