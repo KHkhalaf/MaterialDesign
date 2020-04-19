@@ -4,7 +4,7 @@ Login Page and Credit Card Page
 <p align="center">
 <img  width="400" src="https://github.com/KHkhalaf/MaterialDesign/blob/master/screenshots/LoginPage.gif"/>
 </p>
-## Credit Card Page
+### Credit Card Page
 <p align="center">
 <img  width="400" src="https://github.com/KHkhalaf/MaterialDesign/blob/master/screenshots/CreditCard.gif"/>
 </p>
